@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User see the detail of the product</description>
+   <name>03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4c1d253-3a51-41a4-8d30-ff350b58310d</testCaseGuid>
+</TestCaseEntity>

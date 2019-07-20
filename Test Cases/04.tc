@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User go to the index page after see the product details</description>
+   <name>04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac0fa125-1c4d-4650-9775-933c843ab204</testCaseGuid>
+</TestCaseEntity>

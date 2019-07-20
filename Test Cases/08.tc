@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User sorting products using “Name (A to Z)”</description>
+   <name>08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec53faab-934b-4e05-9db6-0ddef2625f5c</testCaseGuid>
+</TestCaseEntity>

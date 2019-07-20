@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User remove products from cart (from products inventory page)</description>
+   <name>13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac19fabb-117e-477e-89eb-d36a320bb2cc</testCaseGuid>
+</TestCaseEntity>

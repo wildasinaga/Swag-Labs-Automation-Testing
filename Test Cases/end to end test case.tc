@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Automation Scripts (end to end testing) based on test cases created</description>
+   <name>end to end test case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>896227e0-0e6f-47ec-b4ca-17b6930abf05</testCaseGuid>
+</TestCaseEntity>

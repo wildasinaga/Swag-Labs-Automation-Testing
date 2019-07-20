@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User sorting products using “Price  (high to low)”</description>
+   <name>11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd9d4e99-a4d7-45ef-b9a4-e3d74008bc04</testCaseGuid>
+</TestCaseEntity>
